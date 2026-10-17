@@ -1,0 +1,14 @@
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/C#.AssemblyInfoInputs.cache
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/C#.AssemblyInfo.cs
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/C#.csproj.CoreCompileInputs.cache
+/Users/vleshkevich/Development/C#/bin/Debug/net10.0/C#
+/Users/vleshkevich/Development/C#/bin/Debug/net10.0/C#.deps.json
+/Users/vleshkevich/Development/C#/bin/Debug/net10.0/C#.runtimeconfig.json
+/Users/vleshkevich/Development/C#/bin/Debug/net10.0/C#.dll
+/Users/vleshkevich/Development/C#/bin/Debug/net10.0/C#.pdb
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/C#.dll
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/refint/C#.dll
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/C#.pdb
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/C#.genruntimeconfig.cache
+/Users/vleshkevich/Development/C#/obj/Debug/net10.0/ref/C#.dll
