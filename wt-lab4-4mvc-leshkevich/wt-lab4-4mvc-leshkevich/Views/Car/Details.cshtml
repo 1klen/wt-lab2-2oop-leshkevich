@@ -1,0 +1,26 @@
+@model wt_lab4_4mvc_leshkevich.Models.Car
+
+<div class="container py-4">
+    <div class="card shadow-sm rounded-4 p-4 col-md-8 mx-auto">
+        <h2 class="mb-3">@Model.BrandModel</h2>
+        <hr />
+        <p><strong>ID:</strong> @Model.Id</p>
+        <p><strong>Категория:</strong> @Model.Category</p>
+        <p><strong>Цена за сутки:</strong> @Model.PricePerDay руб.</p>
+        <p>
+            <strong>Статус:</strong> 
+            @if (Model.IsAvailable)
+            {
+                <span class="badge bg-success">Доступен для аренды</span>
+            }
+            else
+            {
+                <span class="badge bg-danger">Недоступен</span>
+            }
+        </p>
+        
+        <div class="mt-4">
+            <a asp-action="Index" class="btn btn-secondary">Назад к списку</a>
+        </div>
+    </div>
+</div>
