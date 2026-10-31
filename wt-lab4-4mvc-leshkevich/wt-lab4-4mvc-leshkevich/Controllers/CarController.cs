@@ -45,7 +45,6 @@ public class CarController : Controller
     {
         if (ModelState.IsValid)
         {
-            // Генерируем ID для новой машины
             car.Id = cars.Count > 0 ? cars.Max(c => c.Id) + 1 : 1;
             cars.Add(car);
             return RedirectToAction(nameof(Index));
